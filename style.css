@@ -1,0 +1,39 @@
+
+
+body{
+	width: 80%;
+	max-width: 700px;
+	border: 15px #bdc3c7 solid;
+	margin: 20px auto;
+	font-family: Source Sans Pro;
+}
+
+p:nth-child(1){
+	padding-left: 5px;
+}
+.date {
+	color: #3498db;
+	text-transform: uppercase;
+	font-weight: 400;
+	letter-spacing: 2px;
+}
+
+.left {
+	border-left: 3px solid #bdc3c7;
+}
+
+#buffer{
+	margin: 20px;
+}
+
+hr {
+    display:block;
+    border:none;
+    color:#bdc3c7;
+    height:1px;
+    background:black;
+    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 350, from(#000), to(#fff));
+}
+h2{
+	font-size: 2em;
+}
